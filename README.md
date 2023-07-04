@@ -1,2 +1,7 @@
 # hello-world
-  Repositório para exercícios - Turma backend Cubos Academy 
+
+  Repositório para responder exercícios das aulas.
+    Onde "versionaremos" nosso aprendizado.
+
+
+  
